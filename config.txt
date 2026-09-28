@@ -1,1 +1,1 @@
-main feature-a
+main feature-a feature-b
